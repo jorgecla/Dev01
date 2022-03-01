@@ -29,3 +29,4 @@ final as (
 )
 
 select * from final
+--Dette er en test
